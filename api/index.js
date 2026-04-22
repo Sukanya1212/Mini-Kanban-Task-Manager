@@ -7,7 +7,7 @@ app.use(cors());
 app.use(express.json());
 
 let tasks = [
-    { id: 1, title: 'Learn React', status: 'todo' },
+    { id: 1, title: 'Assignment', status: 'todo' },
     { id: 2, title: 'Build a Kanban Board', status: 'todo' },
 ];
 
